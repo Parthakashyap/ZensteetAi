@@ -25,7 +25,7 @@ This project is a demo implementation of the **"Book a Session"** feature for a 
 
 ### Prerequisites
 Make sure you have the following installed:
-- [Node.js](https://nodejs.org/) (v16 or above)
+- [Node.js](https://nodejs.org/) (v13 or above)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 ### Installation
